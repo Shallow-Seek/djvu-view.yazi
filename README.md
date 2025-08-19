@@ -5,7 +5,6 @@ A Yazi plugin to preview DjVu files.
 ## Requirements
 
 - `ddjvu` (DjVuLibre)
-- `convert` (ImageMagick)
 - Yazi
 
 ## Installation
