@@ -1,4 +1,4 @@
-# DjVu View Plugin for Yazi
+# DjVu Preview Plugin for Yazi
 
 A Yazi plugin to preview DjVu files.
 
