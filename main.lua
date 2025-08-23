@@ -37,7 +37,7 @@ function M:preload(job)
 		:arg({
 			"-format=ppm",
 			"-page=" .. (job.skip + 1),
-			"-size=" .. rt.preview.max_width .. "x" .. rt.preview.max_height,
+			"-size=" .. rt.preview.max_width .. "x" .. "-1",
 			"-aspect=yes",
 			tostring(job.file.url),
 			tostring(cache)
