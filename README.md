@@ -4,8 +4,8 @@ A Yazi plugin to preview DjVu files.
 
 ## Requirements
 
-- `ddjvu` (DjVuLibre)
-- Yazi
+- `ddjvu` ([DjVuLibre](https://github.com/DjVuLibre/djvulibre))
+- [Yazi](https://github.com/sxyazi/yazi)
 
 ## Installation
 1. Copy the main.lua to  `~/.config/yazi/plugins/djvu-view.yazi`.
@@ -36,6 +36,10 @@ run  = "djvu-view"
 ## Usage
 
 Once installed, the plugin will automatically handle DjVu file previews when you navigate to them in Yazi.
+
+## Credits
+
+[Yazi](https://github.com/sxyazi/yazi)
 
 ## License
 
