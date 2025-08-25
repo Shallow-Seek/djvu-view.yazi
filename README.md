@@ -12,7 +12,7 @@ A Yazi plugin to preview DjVu files.
 Use the tools to do it if you prefer.
 ```bash
 mkdir -p ~/.config/yazi/plugins
-git clone https://github.com/your-username/djvu-view.yazi ~/.config/yazi/plugins/djvu-view.yazi
+git clone https://github.com/Shallow-Seek/djvu-view.yazi ~/.config/yazi/plugins/djvu-view.yazi
 ```
 or
 ```bash
