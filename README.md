@@ -11,7 +11,6 @@ A Yazi plugin to preview DjVu files.
 1. Copy the main.lua to  `~/.config/yazi/plugins/djvu-view.yazi`.
 Use the tools to do it if you prefer.
 ```bash
-mkdir -p ~/.config/yazi/plugins
 git clone https://github.com/Shallow-Seek/djvu-view.yazi ~/.config/yazi/plugins/djvu-view.yazi
 ```
 or
