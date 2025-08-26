@@ -22,13 +22,7 @@ ya pkg add Shallow-Seek/djvu-view
 
 ```toml
 [[plugin.prepend_previewers]]
-name = "*.djvu"
-run  = "djvu-view"
-```
-or
-```
-[[plugin.prepend_previewers]]
-mime = "image/vnd.djvu"
+name = "*.{djvu,djv}"
 run  = "djvu-view"
 ```
 
