@@ -18,7 +18,7 @@ or
 ya pkg add Shallow-Seek/djvu-view
  ```
 
-2. Add one of the following settings in your `~/.config/yazi/yazi.toml`:
+2. Add the following in your `~/.config/yazi/yazi.toml`:
 
 ```toml
 [[plugin.prepend_previewers]]
