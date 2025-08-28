@@ -26,7 +26,7 @@ name = "*.{djvu,djv}"
 run  = "djvu-view"
 ```
 or
-```
+```toml
 [plugin.prepend_previewers]
 mime = "image/djvu"
 run  = "djvu-view"
