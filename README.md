@@ -18,11 +18,17 @@ or
 ya pkg add Shallow-Seek/djvu-view
  ```
 
-2. Add the following in your `~/.config/yazi/yazi.toml`:
+2. Add one of the following in your `~/.config/yazi/yazi.toml`:
 
 ```toml
 [[plugin.prepend_previewers]]
 name = "*.{djvu,djv}"
+run  = "djvu-view"
+```
+or
+```
+[plugin.prepend_previewers]
+mime = "image/djvu"
 run  = "djvu-view"
 ```
 
