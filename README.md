@@ -38,7 +38,7 @@ Once installed, the plugin will automatically handle DjVu file previews when you
 
 ## Credits
 
-[Yazi](https://github.com/sxyazi/yazi)
+Plugin is the ddjvu mod of the default [Yazi](https://github.com/sxyazi/yazi) pdf plugin.
 
 ## License
 
